@@ -1,0 +1,5 @@
+version: "1"
+rules:
+  - base: zyf
+    upstream: ourongxing:main    # change `wei` to the owner of upstream repo
+    mergeMethod: merge
